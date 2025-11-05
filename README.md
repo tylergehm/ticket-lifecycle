@@ -2,9 +2,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
-
+<h1>osTicket in Action: End-to-End Ticket Management and Helpdesk Workflow Simulation</h1>
+This project extends the osTicket environment to simulate real-world helpdesk operations by having end-users submit tickets via the public portal while agents and administrators interact through the agent and admin panels. Department hierarchies are adjusted to control ticket visibility, and tickets are created, observed, prioritized, assigned to appropriate SLAs, departments, and teams, then resolved according to role-based permissions. Access restrictions are tested by reassigning high-severity tickets to restricted departments, demonstrating how visibility and edit rights are enforced. The project highlights ticketing system email integration for automatic user updates and emphasizes best practices in incident intake—stressing that all support interactions, regardless of source (phone, chat, email, web, or in-person), should be documented as tickets to ensure accountability, accurate metrics, and consistent service delivery.
 
 <h2>Video Demonstration</h2>
 
@@ -15,10 +14,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- osTicket
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 11 Pro (21H2)
+- Windows 11 Home (host machine)
 
 <h2>Ticket Lifecycle Stages</h2>
 
@@ -29,26 +30,3 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
