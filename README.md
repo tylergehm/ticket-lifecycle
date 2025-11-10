@@ -17,7 +17,7 @@ For this project, the osTicket web portals will be used to log in as various rol
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
+- ### [YouTube: osTicket in Action: End-to-End Ticket Management and Helpdesk Workflow Simulation](https://youtu.be/snp9bf5NcFI)
 
 <h2>Environments and Technologies Used</h2>
 
